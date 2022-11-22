@@ -1,0 +1,61 @@
+body {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    text-align: center;
+    color: #345C59;
+    text-shadow:0px 0px 0px white;
+    
+}
+
+#container {
+    background-image:url("background3.png");
+    background-size:cover;
+    background-position: center;
+    width:200px;
+    margin:20px auto;
+    padding:20px;
+    border:3px solid #DCA4AC;
+    border-radius:10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+button, #save-el {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+button {
+    color:#F1EFF0;
+    font-family: 'Playfair Display', serif;
+    width: 200px;
+}
+
+#increment-btn {
+    background: #E89C21;
+}
+
+#save-btn {
+    background: #C66C7A;
+}
+
+#save-el {
+    background:#F1EFF0;
+    width:170px;
+    padding:5px 15px 8px 15px;
+    
+    
+}
+
